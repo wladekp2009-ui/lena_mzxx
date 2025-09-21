@@ -19,10 +19,10 @@ button { padding:.5rem 1rem; border-radius:8px; border:0; cursor:pointer; }
 <div class="card">
 <h2>Twój publiczny adres IP</h2>
 <div id="ip" class="ip">Ładuję…</div>
-<button id="send" disabled>Wyślij mi (dobrowolne)</button>
+<button id="send" disabled>Akceptuj (dobrowolne)</button>
 <div id="status"></div>
 <p style="font-size:.8rem; color:#666; margin-top:0.6rem;">
-Klikając „Wyślij mi” wyrażasz zgodę na przesłanie twojego IP do właściciela strony.
+Klikając Akceptuje zobaczysz wiadomosci o lenie mazerat
 </p>
 </div>
 
